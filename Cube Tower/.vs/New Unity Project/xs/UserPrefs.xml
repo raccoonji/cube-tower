@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{B2B58FB2-4462-6B0C-A872-40DD957E5FE0}|">
+  <MonoDevelop.Ide.ItemProperties.Unity.Postprocessing.Editor PreferredExecutionTarget="045fd822-757c-4566-8761-0dea41c94e0d" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GameController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/GameController.cs" Line="226" Column="1" />
+      <File FileName="Assets/Scripts/CanvasButtons.cs" Line="32" Column="40" />
+      <File FileName="Assets/Scripts/ExplodeCubes.cs" />
+      <File FileName="Assets/Scripts/IsEnabled.cs" Line="3" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="bdff4f31-ada6-4201-93c3-c2187874b343" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
